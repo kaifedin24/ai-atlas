@@ -438,6 +438,14 @@ export const categories: Category[] = [
         country: '🇩🇪',
         link: 'https://www.deepl.com',
       },
+      {
+        name: 'Fair Text,
+        description:
+          'Simplifying complex German texts with AI for clear and accessible communication across all industries.',
+        icon: '📄',
+        country: '🇩🇪',
+        link: 'https://fair-text.com',
+      },
     ],
   },
   {
